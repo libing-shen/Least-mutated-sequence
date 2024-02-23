@@ -28,7 +28,7 @@ Second, run perl MutationSiteCounter matrix_file.
 
 Example: 
 
-(Under prompt sign (>#$))
+(Under prompt sign: > or $ or #)
 
 perl MutationSiteFinder sample_data.fa
 
