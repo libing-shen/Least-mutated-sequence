@@ -39,3 +39,10 @@ perl MutationSiteCounter mutation_site_matrix.txt
 4. License
 
 Libing Shen @ International Human Phenome Institutes (Shanghai)
+
+-------------
+
+5. Related preprint publication
+The preprint manuscript: https://zenodo.org/records/10645490.
+The preprint manuscript: https://zenodo.org/records/10703955.
+
