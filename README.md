@@ -43,7 +43,7 @@ Libing Shen @ International Human Phenome Institutes (Shanghai)
 -------------
 
 
-5. Related preprint publication
+5. Related preprint publications
 
 The preprint manuscript: https://zenodo.org/records/10645490.
 
