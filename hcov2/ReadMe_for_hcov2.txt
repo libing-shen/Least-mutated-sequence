@@ -1,4 +1,4 @@
-This directory holds the supplemental files for the manuscript entitled "Origin of the COVID-19 Pandemic".
+This directory holds the supplemental files for the manuscript entitled "Exploring the Origin of the COVID-19 Pandemic Using a Non-parametric Approach".
 
 The file "249137_strains_mutation_count.txt" is the mutation-counting result of 249137 strains.
 
