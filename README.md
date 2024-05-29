@@ -3,7 +3,7 @@
 -------------
 1. Background
 
-MutationSiteFinder v.1.0 and MutationSiteCounter v.1.0 are two corresponding programs of my manuscript entitled "A Method for Calculating the Least Mutated Sequence in DNA Alignment Based on Point Mutation Sites" (on bioRxiv, https://doi.org/10.1101/2023.11.14.567125).
+MutationSiteFinder v.1.0 and MutationSiteCounter v.1.0 are two corresponding programs of my manuscript entitled "A Method for Calculating the Least Mutated Sequence in DNA Alignment Based on Point Mutation Sites" (on bioRxiv, [https://doi.org/10.1101/2023.11.14.567125](https://www.biorxiv.org/content/10.1101/2023.11.14.567125v1)).
 
 They are Perl programs which are designed to calculate the least mutated sequence in a DNA Alignment file.
 
